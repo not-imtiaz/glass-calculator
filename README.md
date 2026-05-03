@@ -116,3 +116,4 @@ MIT — free to use, fork, and modify.
   Built with precision · No frameworks were harmed
 </p>
 made by imtu
+idk this is for getting contribution
